@@ -313,6 +313,9 @@ Ghost Fort is built around one principle: **no single point of failure**.
 
 Each layer assumes the others can be bypassed. This mirrors enterprise defense-in-depth architecture used in government and critical infrastructure environments.
 
+## Documentation
+- [Hardening Log](./HARDENING_LOG.md) — dated record of security improvements to the live platformX
+
 ---
 
 ## 🛠️ Tech Stack
